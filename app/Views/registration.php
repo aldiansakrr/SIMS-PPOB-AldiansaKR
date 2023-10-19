@@ -11,7 +11,7 @@
     <div class="row col-md-12">
         <div class="container col-md-6" style="padding: 70px; text-align: center;">
             <div>
-                <h5><img src="<?= base_url() ?>public/assets/Logo.png" width="30px" style="margin-right: 10px;">SIMS PPOB</h5>
+                <h5><img src="<?= base_url() ?>assets/Logo.png" width="30px" style="margin-right: 10px;">SIMS PPOB</h5>
 
                 <h4 class="mt-4">Lengkapi data untuk <br> membuat akun</h4>
             </div>
@@ -77,7 +77,7 @@
             </form>
         </div>
         <div class="col-md-6">
-            <img class="img-fluid" src="<?= base_url() ?>public/assets/Illustrasi Login.png" alt="" width="580px" style="margin-left: 95px;">
+            <img class="img-fluid" src="<?= base_url() ?>assets/Illustrasi Login.png" alt="" width="580px" style="margin-left: 95px;">
         </div>
     </div>
     <script type="text/javascript">

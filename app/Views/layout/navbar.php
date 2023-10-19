@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg bg-white mt-3 border-bottom">
     <div class="container">
 
-        <a class="navbar-brand text-black" href="<?= base_url() ?>dashboard"><img src="<?= base_url() ?>public/assets/Logo.png" width="40px">
+        <a class="navbar-brand text-black" href="<?= base_url() ?>dashboard"><img src="<?= base_url() ?>assets/Logo.png" width="40px">
             SIMS PPOB
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
